@@ -2,8 +2,8 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/hikarilucky79?label=Follow&style=social)](https://github.com/hikarilucky79?tab=followers)
 [![GitHub stars](https://img.shields.io/github/stars/hikarilucky79?label=Stars&style=social)](https://github.com/hikarilucky79?tab=stars)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/hikari)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=flat&logo=github&logoColor=white)](https://hikari.dev)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/hikarilucky79)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=flat&logo=github&logoColor=white)](https://hikarilucky79.github.io)
 
 ---
 
