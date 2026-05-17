@@ -31,8 +31,8 @@
 
 ## 📊 Estatísticas
 
-![Hikari's GitHub stats](https://github-readme-stats.vercel.app/api?username=hikarilucky79&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hikarilucky79&layout=compact&theme=tokyonight)
+![Hikari's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=hikarilucky79&theme=tokyonight)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=hikarilucky79&theme=github-compact)
 
 ---
 
