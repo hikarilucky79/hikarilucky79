@@ -47,7 +47,6 @@ lang:   pt-BR 🇧🇷
 ![Rust](https://img.shields.io/badge/Rust-0D1117?style=flat&logo=rust&logoColor=F0C040&labelColor=1a1a2e)
 ![Node.js](https://img.shields.io/badge/Node.js-0D1117?style=flat&logo=node.js&logoColor=339933&labelColor=1a1a2e)
 ![Python](https://img.shields.io/badge/Python-0D1117?style=flat&logo=python&logoColor=3572A5&labelColor=1a1a2e)
-![Axum](https://img.shields.io/badge/Axum-0D1117?style=flat&logo=axum&logoColor=F0C040&labelColor=1a1a2e)
 
 #### Database & Infra
 ![MongoDB](https://img.shields.io/badge/MongoDB-0D1117?style=flat&logo=mongodb&logoColor=47A248&labelColor=1a1a2e)
@@ -77,17 +76,6 @@ lang:   pt-BR 🇧🇷
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hikarilucky79&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=F0C040&text_color=c9d1d9" />
-
-</div>
-
----
-
-### 🗂️ Projetos em Destaque
-
-<div align="center">
-
-[![Questmate](https://img.shields.io/badge/Questmate-Duolingo_para_ENEM-F0C040?style=for-the-badge&logo=book&logoColor=0D1117&labelColor=1a1a2e)](https://github.com/hikarilucky79/questmate)
-[![God Bot](https://img.shields.io/badge/God_Bot_Enterprise-Discord_Bot-F0C040?style=for-the-badge&logo=discord&logoColor=0D1117&labelColor=1a1a2e)](https://github.com/hikarilucky79/god-bot)
 
 </div>
 
