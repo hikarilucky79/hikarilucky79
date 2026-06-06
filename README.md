@@ -25,7 +25,7 @@
     25|name: Hikari
     26|role: Back-End Developer
     27|focus: [APIs de alta performance, Arquitetura de Software, Sistemas Escaláveis]
-    28|stack: [Rust, Flutter/Dart, Node.js, Python]
+    28|stack: [Go, Flutter/Dart, Node.js, Python]
     29|os: Arch Linux # btw 😼
     30|likes: [código limpo, UI dark, performance, estética]
     31|studies: [Go, Gin, sistemas distribuídos]
